@@ -1,5 +1,5 @@
 {
-  "name": "okyayaykut/sms",
+  "name": "asllani/sms",
   "type": "library",
   "description": "iletiMerkezi, SMS API'si aracılığı ile kendi yazılımlarınız la SMS gönderme özelliğini eklemenizi sağlar.",
   "keywords": ["ILETI MERKEZI", "TOPLU SMS", "SMS", "Turkey", "Turkiye", "Sms Api", "Laravel"],
